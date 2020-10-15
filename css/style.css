@@ -193,8 +193,7 @@ header{
   .card {
     /*Your  code here again.*/
    min-width: 225px;
-    display: flex;
-    flex-direction: row;
+
   }
 
   .card_big{
@@ -204,7 +203,8 @@ header{
  
 
   .pricing{
-  
+      display: flex;
+    flex-direction: row;
 }
   
   /* Navbar */
