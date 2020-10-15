@@ -88,6 +88,7 @@ to{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     flex-wrap: wrap;
     /*Your code here.*/
     /*Don't forget to vertically and horizontally alight the card*/
@@ -209,6 +210,7 @@ header{
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
 
 }
@@ -256,6 +258,7 @@ justify-content: space-between;
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
     flex-wrap: wrap;
     /*Your code here.*/
     /*Don't forget to vertically and horizontally alight the card*/
